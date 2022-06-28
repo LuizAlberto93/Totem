@@ -1,0 +1,49 @@
+﻿@model IEnumerable<Totem.Entidades.ProdutoViewModel>
+
+@{
+    ViewData["Title"] = "Consulta";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h1>Produtos</h1>
+
+<p>
+    <a asp-action="Cadastrar" class="btn btn-primary">Novo Produto</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            
+            <th>
+                @Html.DisplayNameFor(model => model.Nome)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.ValorUnitario)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.QtdEstoque)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            
+            <td>
+                @Html.DisplayFor(modelItem => item.Nome)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.ValorUnitario)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.QtdEstoque)
+            </td>
+            <td>
+                @Html.ActionLink("Editar", "Editar", new { id = item.Id }, new {@class= "btn btn-primary"} ) 
+             @Html.ActionLink("Remover", "RemoverPorId", new { id = item.Id } , new {@class= "btn btn-danger"})
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

@@ -1,0 +1,12 @@
+C:\Users\Luiz Alberto\Desktop\Totem\Totem\Totem.Entidades\obj\Debug\net6.0\Totem.Entidades.csproj.AssemblyReference.cache
+C:\Users\Luiz Alberto\Desktop\Totem\Totem\Totem.Entidades\obj\Debug\net6.0\Totem.Entidades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luiz Alberto\Desktop\Totem\Totem\Totem.Entidades\obj\Debug\net6.0\Totem.Entidades.AssemblyInfoInputs.cache
+C:\Users\Luiz Alberto\Desktop\Totem\Totem\Totem.Entidades\obj\Debug\net6.0\Totem.Entidades.AssemblyInfo.cs
+C:\Users\Luiz Alberto\Desktop\Totem\Totem\Totem.Entidades\obj\Debug\net6.0\Totem.Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Luiz Alberto\Desktop\Totem\Totem\Totem.Entidades\bin\Debug\net6.0\Totem.Entidades.deps.json
+C:\Users\Luiz Alberto\Desktop\Totem\Totem\Totem.Entidades\bin\Debug\net6.0\Totem.Entidades.dll
+C:\Users\Luiz Alberto\Desktop\Totem\Totem\Totem.Entidades\bin\Debug\net6.0\Totem.Entidades.pdb
+C:\Users\Luiz Alberto\Desktop\Totem\Totem\Totem.Entidades\obj\Debug\net6.0\Totem.Entidades.dll
+C:\Users\Luiz Alberto\Desktop\Totem\Totem\Totem.Entidades\obj\Debug\net6.0\refint\Totem.Entidades.dll
+C:\Users\Luiz Alberto\Desktop\Totem\Totem\Totem.Entidades\obj\Debug\net6.0\Totem.Entidades.pdb
+C:\Users\Luiz Alberto\Desktop\Totem\Totem\Totem.Entidades\obj\Debug\net6.0\ref\Totem.Entidades.dll
